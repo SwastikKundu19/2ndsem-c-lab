@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 		fflush(stdin);
 		printf("\n");
 	}
-	printf("\n-------------- STUDENT INFOTMATION --------------\n");
+	printf("\n-------------- BOOKS --------------\n");
 	for(i=1;i<=5;i++)
 	{
 		printf("%d student name = ",i);
