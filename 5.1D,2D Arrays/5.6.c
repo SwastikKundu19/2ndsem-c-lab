@@ -14,7 +14,7 @@ int main() {
         sum += n[i];
     }
     avg = sum / 10.0;
-    printf("The average of the 10 numbers is: %.2f\n", avg);
+    printf("The average of the 10 numbers is: %f\n", avg);
 
     return 0;
 }

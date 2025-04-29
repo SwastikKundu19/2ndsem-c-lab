@@ -1,7 +1,7 @@
 // Write a program to merge two sorted array in one sorted array.
 
 #include<stdio.h>
-int main(int argc, char** argv)
+int main()
 {
 	int a[5],b[5],c[5],i;
 	printf("1st array \n");
