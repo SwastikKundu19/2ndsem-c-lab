@@ -1,9 +1,10 @@
- //WAP to understand basic use of pointers. 
+//WAP to understand basic use of pointers. 
  
  //code:-
  
  #include <stdio.h>
-int main() {
+int main() 
+{
     int a = 10;         
     int *ptr;           
     ptr = &a;           
