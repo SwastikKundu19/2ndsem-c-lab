@@ -1,3 +1,5 @@
+//Code:-
+
 #include <stdio.h>
 int main()
 {
@@ -5,3 +7,11 @@ int main()
 	printf("%s",a);
 	return 0;
 }
+
+//Output:-
+
+/*
+
+Swastik Kundu
+
+*/

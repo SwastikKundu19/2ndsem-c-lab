@@ -1,5 +1,7 @@
 //Write a program to insert 5 elements into array and print search elements of array.
 
+//code:-
+
 #include <stdio.h>
 int main()
 {
@@ -30,3 +32,17 @@ int main()
 	}
 	return 0;
 } 
+
+
+//Output:-
+/*
+
+Enter 1 element = 10
+Enter 2 element = 20
+Enter 3 element = 30
+Enter 4 element = 40
+Enter 5 element = 40
+Enter search element = 30
+30 element is exist
+
+*/

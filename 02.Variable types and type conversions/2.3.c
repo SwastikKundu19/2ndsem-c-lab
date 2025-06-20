@@ -1,5 +1,7 @@
 //WAP to perform simple arithmetic operation in c(addition , substraction , multiplacation , division , modulo)
 
+//Code:-
+
 #include <stdio.h>
 int main()
 {
@@ -15,3 +17,17 @@ int main()
 	printf("Modulus of %d and %d = %d",a,b,a%b);
 	return 0;
 }
+
+//Output:-
+
+/*
+
+Enter 1st number=4
+Enter 2nd number=2
+Addition of 4 and 2 = 6
+Substraction of 4 and 2 = 2
+Multiplacation of 4 and 2 = 8
+Division of 4 and 2 = 2
+Modulus of 4 and 2 = 0
+
+*/

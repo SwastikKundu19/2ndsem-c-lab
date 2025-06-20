@@ -1,4 +1,7 @@
 // String length
+
+//Code:-
+
 #include <stdio.h>
 #include<string.h>
 int main()
@@ -13,6 +16,17 @@ int main()
 		i++;
 	}
 	printf("\nLength is = %d",i);
-	printf("\nLength is = %d",strlen(a));
+	printf("\nLength is = %d",strlen(a)); // use string function
     return 0;
 }
+
+//Output:-
+
+/*
+
+Enter your name=SWASTIK KUNDU
+Your name is SWASTIK KUNDU
+Length is = 13
+Length is = 13
+
+*/

@@ -1,3 +1,5 @@
+//Code:-
+
 #include <stdio.h>
 int main(int argc, char** argv)
 {
@@ -12,3 +14,12 @@ int main(int argc, char** argv)
 	}
     return 0;
 }
+
+//Output:-
+
+/*
+
+Enter your name=SWASTIK KUNDU
+Your name is SWASTIK KUNDU
+
+*/

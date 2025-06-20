@@ -69,7 +69,8 @@ Enter rows and columns for second matrix: 3
 3
 Enter elements of first matrix:
 Enter element [0][0]: 1
-Enter element [0][1]:2
+Enter element [0][1]:
+2
 Enter element [0][2]: 3
 Enter element [1][0]: 4
 Enter element [1][1]: 5

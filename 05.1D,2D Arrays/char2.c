@@ -1,3 +1,5 @@
+//Code:-
+
 #include <stdio.h>
 int main()
 {
@@ -8,3 +10,12 @@ int main()
 	puts(a);
 	return 0;
 }
+
+//Output:-
+
+/*
+
+Enter your name=Swastik Kundu
+Your name is Swastik Kundu
+
+*/

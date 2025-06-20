@@ -3,7 +3,8 @@
 //code:-
 
 #include <stdio.h>
-void swap(int a, int b) {
+void swap(int a, int b)
+{
     int temp;
     temp = a;
     a = b;
@@ -11,7 +12,8 @@ void swap(int a, int b) {
 
     printf("Swap function: a = %d, b = %d\n", a, b);
 }
-int main() {
+int main() 
+{
     int x = 10, y = 20;
 
     printf("Before swap function: x = %d, y = %d\n", x, y);
@@ -21,9 +23,10 @@ int main() {
     return 0;
 }
 
+
 //Output:-
 /*
 Before swap function: x = 10, y = 20
 Swap function: a = 20, b = 10
 After swap function: x = 10, y = 20
-*/
+*/                                      

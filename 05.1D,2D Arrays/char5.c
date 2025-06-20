@@ -1,5 +1,7 @@
 // String Concaiting 
 
+//Code:-
+
 #include<string.h>
 int main()
 {
@@ -9,3 +11,12 @@ int main()
 	puts(str1);
     return 0;
 }
+
+//Output:-
+
+/*
+
+
+swastik kundu
+
+*/

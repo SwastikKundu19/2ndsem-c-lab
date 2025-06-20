@@ -1,4 +1,6 @@
- // String Compare
+// String Compare
+
+//Code:-
 
 #include<string.h>
 int main()
@@ -13,3 +15,11 @@ int main()
 		printf("Not same");
     return 0;
 }
+
+//Output:-
+
+/*
+
+Not same
+
+*/

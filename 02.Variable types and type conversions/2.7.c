@@ -1,5 +1,7 @@
 //Given the value of three variable entered by user, write a program to compute and display the value of X,where X=a/(b-c).
 
+//Code:-
+
 #include <stdio.h>
 int main()
 {
@@ -13,3 +15,13 @@ int main()
 	printf("the value of X =%d",a/(b-c));
 	return 0;
 }
+
+//
+/*
+
+Enter a value a=2
+Enter a value b=4
+Enter a value c=6
+the value of X =-1
+
+*/

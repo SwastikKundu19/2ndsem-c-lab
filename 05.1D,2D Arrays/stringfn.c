@@ -1,3 +1,5 @@
+//Code:-
+
 #include<stdio.h> 
 #include<string.h> 
 
@@ -82,3 +84,98 @@ void main()
 	
 	
 }
+
+//Output:-
+
+/*
+
+Pls Enter String 1
+SWASTIK
+
+Pls Enter String 2
+KUNDU
+
+Press 1. for string Compare
+Press 2. for string Copy
+Press 3. for string Concaiting
+Press 4. for string Length
+Press 5. for string change
+Pls Enter your Choice1
+Strings are not identical
+Do you wish to cont....
+ Press Y to Cont or press any key to exity
+
+Press 1. for string Compare
+Press 2. for string Copy
+Press 3. for string Concaiting
+Press 4. for string Length
+Press 5. for string change
+Pls Enter your Choice2
+First String is :SWASTIK
+Second String is :KUNDU
+Third (copied from string 1) String is :SWASTIK
+
+Do you wish to cont....
+ Press Y to Cont or press any key to exity
+
+Press 1. for string Compare
+Press 2. for string Copy
+Press 3. for string Concaiting
+Press 4. for string Length
+Press 5. for string change
+Pls Enter your Choice3
+SWASTIKKUNDU
+
+Do you wish to cont....
+ Press Y to Cont or press any key to exity
+
+Press 1. for string Compare
+Press 2. for string Copy
+Press 3. for string Concaiting
+Press 4. for string Length
+Press 5. for string change
+Pls Enter your Choice4
+SWASTIKKUNDU
+
+Length Of String 1 is 12
+KUNDU
+
+Length Of String 1 is 5
+
+Do you wish to cont....
+ Press Y to Cont or press any key to exity
+
+Press 1. for string Compare
+Press 2. for string Copy
+Press 3. for string Concaiting
+Press 4. for string Length
+Press 5. for string change
+Pls Enter your Choice5
+
+Pls Enter New String 1
+CSE
+
+Pls Enter New String 2
+1ST YEAR
+
+Do you wish to cont....
+ Press Y to Cont or press any key to exity
+
+Press 1. for string Compare
+Press 2. for string Copy
+Press 3. for string Concaiting
+Press 4. for string Length
+Press 5. for string change
+Pls Enter your Choice2
+First String is :CSE
+Second String is :1ST YEAR
+Third (copied from string 1) String is :CSE
+
+Do you wish to cont....
+ Press Y to Cont or press any key to exit
+ ........
+ ........
+ ........
+ ........
+
+*/

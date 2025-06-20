@@ -9,3 +9,12 @@ int main()
 	printf("Number is = %d",a);
 	return 0;
 }
+
+//Output:-
+
+/*
+
+Enter a number=2
+Number is = 2
+
+*/
